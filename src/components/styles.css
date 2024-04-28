@@ -1,0 +1,37 @@
+h1,
+h2 {
+  margin-left: 20px;
+}
+
+.phonebook-div {
+  margin: 20px 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  margin: 20px 20px;
+}
+
+button {
+  margin: 20px 20px;
+  width: 200px;
+}
+
+.delete-button {
+  width: 100px;
+}
+
+input {
+  margin: 20px 0px;
+}
+
+.search-input {
+  margin-left: 20px;
+}
